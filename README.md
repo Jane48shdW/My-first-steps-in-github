@@ -1,2 +1,2 @@
 # My-first-steps-in-github
-Практика по Glo Academy
+Практика по Glo Academy (Git Hub for beginners)
